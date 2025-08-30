@@ -1,3 +1,6 @@
+""" Same game logic as 'playable_minesweeper.py' but with emojis in place 
+to indicate bombs and mines instead of - and *'""" 
+
 # ========= Import Libraries =========
 import random
 import string
